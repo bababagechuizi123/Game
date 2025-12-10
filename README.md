@@ -21,15 +21,17 @@ game will be saved automatically at any point when
 quitting, player can choose load the save or start a new
 game as they like.
 
-# Main Menu & Weapon Choose
+## Demo Video
 
 [![Watch the video](https://github.com/bababagechuizi123/Game/blob/main/video/demo.png)](https://github.com/bababagechuizi123/Game/blob/main/video/demo_video.mp4)
 
-# Two type of map (fixed and infinite)
+## Main Menu
 
-## City - Map1
+continue: load local game save
 
-is a fixed map with limited size
+level 1&2: different map
+
+quit: quit the game
 
 ![](https://github.com/Wang-Yuan0813/WarwickStudy_coursework/raw/main/Examples/fixed.gif)
 
