@@ -23,7 +23,7 @@ game as they like.
 
 # Main Menu & Weapon Choose
 
-[![Watch the video](https://github.com/bababagechuizi123/Game/edit/main/demo.png)](https://github.com/bababagechuizi123/Game/edit/main/video/demo_video.mp4)
+[![Watch the video](https://github.com/bababagechuizi123/Game/edit/main/video/demo.png)](https://github.com/bababagechuizi123/Game/edit/main/video/demo_video.mp4)
 
 # Two type of map (fixed and infinite)
 
